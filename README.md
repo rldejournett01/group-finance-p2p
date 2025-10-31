@@ -34,12 +34,12 @@ The stack was chosen to balance rapid development with the performance and consi
 
 This diagram illustrates the boundaries of the application, showing that all user interactions are routed through the application layer, which securely communicates with external financial and communication services.
 
-*will insert diagram*
-> 
+> <img width="706" height="421" alt="SystemCxtDiagram(LDT-L1) drawio" src="https://github.com/user-attachments/assets/a45e302e-0535-4322-b86e-1591910c9777" />
 
 ### 2. Container Diagram (L2: Backend Structure)
 
-<img width="706" height="421" alt="SystemCxtDiagram(LDT-L1) drawio" src="https://github.com/user-attachments/assets/a45e302e-0535-4322-b86e-1591910c9777" />
+
+> <img width="696" height="438" alt="ContainerDia(LDI-L2) drawio" src="https://github.com/user-attachments/assets/fa2cebab-3333-4390-a3ee-476bda7c85ed" />
 
 
 
