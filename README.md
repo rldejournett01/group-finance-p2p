@@ -39,7 +39,8 @@ This diagram illustrates the boundaries of the application, showing that all use
 ### 2. Container Diagram (L2: Backend Structure)
 
 
-> <img width="696" height="438" alt="ContainerDia(LDI-L2) drawio" src="https://github.com/user-attachments/assets/fa2cebab-3333-4390-a3ee-476bda7c85ed" />
+> <img width="696" height="438" alt="ContainerDia(LDI-L2) drawio (1)" src="https://github.com/user-attachments/assets/c6b90f5e-6f9b-416f-93a9-4e7d34a8a919" />
+
 
 
 
