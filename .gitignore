@@ -1,0 +1,58 @@
+# -----------------------------
+# 1. DEPENDENCIES AND MODULES
+# -----------------------------
+
+# Node.js dependencies for BOTH server and client
+# This ignores all node_modules folders wherever they exist
+node_modules/
+# Optional: If you have separate client/server folders,
+# it doesn't hurt to explicitly target them as well:
+# /client/node_modules
+# /server/node_modules
+
+# Optional: Yarn, pnpm, and various lock files (though package-lock.json should generally be kept)
+/yarn-error.log
+/pnpm-debug.log
+/package-lock.json # If using npm, you may consider keeping this file
+
+# -----------------------------
+# 2. BUILD/OUTPUT ARTIFACTS
+# -----------------------------
+
+# React build output (often in the client folder)
+/build
+/dist
+/out
+
+# General build/temp files
+/temp
+
+# -----------------------------
+# 3. CONFIGURATION AND SENSITIVE DATA
+# -----------------------------
+
+# Environment variables - CRITICAL for sensitive data like DB credentials
+.env
+.env.*
+!.env.example # You CAN commit an empty example file for teammates
+
+# For React Create React App (CRA) development server
+.history
+
+# -----------------------------
+# 4. IDE/OS FILES
+# -----------------------------
+
+# OSX/macOS specific files
+.DS_Store
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+# Linux specific files
+*.swp
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs (Webstorm, etc.)
+.idea/
