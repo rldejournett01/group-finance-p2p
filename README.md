@@ -2,7 +2,7 @@
 Modern, scalable, secure P2P social finance app. This will be designed to facilitate group expense splitting, collaborative saving,a nd collective money goals. At core this built from multiple services (mircoservce) to demo data consistency, real-time updates, and fault tolerance. 
 
 ## Overview
-This repo detials the high-lvl architecture for **[LetsDoIt]**, a modern P2P social finace platform. The application is designed to simplify group financial management, allowing users to:
+This repo detials the high-lvl architecture for **[LetsDoIt]**, a modern P2P social finance platform. The application is designed to simplify group financial management, allowing users to:
 
 1. **Split Expenses:** Easily divide bills, travel costs, or household expenses evenly or by custom percentages (70/30, 20/80, 30/30/30/10, etc...)
 2. **Collective Pooling:** Create joint savings goals (e.g, family trip, family pics, cookout etc) where members can contribute over time.
